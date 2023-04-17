@@ -1,0 +1,5 @@
+title: "IMPUnit Blog"
+description: My personal blog for the IMPUnit protocol for publishing AI output over RSS.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
